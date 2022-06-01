@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+header{
+    margin-bottom: 2rem;
+}
+.logoblanco{
+    width: 120px;
+}
+footer{
+    text-align: center;
+}
+.logonegro{
+    width: 100px;
+}
